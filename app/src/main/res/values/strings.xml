@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">LogisticEle</string>
+    strings.xml
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Logistic</string>
+    <string name="slide_1_desc">The easiest way to order Logistic from your favourite Logistic App!</string>
+
+    <string name="slide_2_title">Fast Delivery</string>
+    <string name="slide_2_desc">Book Vehicle for your family and friends!</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">Good Service</string>
+    <string name="slide_4_desc">Book Vehicle of any transportation and asset the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <string name="Login">Login</string>
+    <string name="Email">Email id</string>
+    <string name="Password">Password</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="login">Log In</string>
+    <string name="create_new">Click here for register</string>
+    <string name="not_register">Not Register?</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="signup">Signup</string>
+    <string name="name_error">Please enter your name</string>
+    <string name="phone_error">Please enter a phone number</string>
+    <string name="email_error">Please enter a email address</string>
+    <string name="error_invalid_email">Email is not valid</string>
+    <string name="password_error">Please enter a password</string>
+    <string name="error_invalid_password">Please enter a minimum password of 6 characters</string>
+</resources>
